@@ -3,11 +3,6 @@
 </h3>
 <p align="center">A command-line system information tool written in bash 3.2+</p>
 
-<p align="center">
-<a href="./LICENSE.md"><img src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
-<a href="https://github.com/xanmoy/xanfetch/releases"><img src="https://img.shields.io/github/release/xanmoy/xanfetch.svg"></a>
-<a href="https://repology.org/metapackage/xanfetch"><img src="https://repology.org/badge/tiny-repos/xanfetch.svg" alt="Packaging status"></a>
-</p>
 
 <!-- <img src="" alt="xanfetch" align="right" height="240px"> -->
 
