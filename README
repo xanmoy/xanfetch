@@ -1,8 +1,8 @@
-<h3 align="center">
+<!-- <h3 align="center"> -->
 <!-- <img src="" alt="logo" height="100px"> -->
-</h3>
-<p align="center">A command-line system information tool written in bash 3.2+</p>
-
+<!-- </h3>
+<p align="center"></p> -->
+A command-line system information tool written in bash 3.2+
 
 <!-- <img src="" alt="xanfetch" align="right" height="240px"> -->
 
@@ -19,5 +19,6 @@ You can further configure xanfetch to display exactly what you want it to. Throu
 xanfetch supports almost 150 different operating systems. From Linux to Windows, all the way to more obscure operating systems like Minix, AIX and Haiku. If your favourite operating system is unsupported: Open up an issue and support will be added.
 
 
-### More: \[[Installation](https://github.com/xanmoy/xanfetch/wiki/Installation)\] 
-\[[Wiki](https://github.com/xanmoy/xanfetch/wiki)\]
+<!-- ### More:  -->
+<!-- \[[Installation](https://github.com/xanmoy/xanfetch/wiki/Installation)\]  -->
+<!-- \[[Wiki](https://github.com/xanmoy/xanfetch/wiki)\] -->
