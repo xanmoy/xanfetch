@@ -12,6 +12,3 @@ The information by default is displayed alongside your operating system's logo. 
 You can further configure xanfetch to display exactly what you want it to. Through the use of command-line flags and the configuration file you can change existing information outputs or add your own custom ones.
 
 xanfetch supports almost 150 different operating systems. From Linux to Windows, all the way to more obscure operating systems like Minix, AIX and Haiku. If your favourite operating system is unsupported: Open up an issue and support will be added.
-
-
-
