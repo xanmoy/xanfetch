@@ -21,11 +21,12 @@ xanfetch is a command-line system information tool that displays details about y
 
 %install
 rm -rf %{buildroot}
-install -Dm755 xanfetch.sh %{buildroot}/usr/bin/xanfetch
+install -Dm755 xanfetch %{buildroot}/usr/bin/xanfetch
 
 %files
 %license LICENSE
 /usr/bin/xanfetch
 
 %changelog
-* Thu Nov 07 2024 Tanmoy Ganguly - Initial package creation
+* Thu Nov 07 2024 Tanmoy Ganguly - 1.0.0-1
+- Initial package creation
